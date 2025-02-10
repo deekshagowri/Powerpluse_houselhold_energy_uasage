@@ -16,3 +16,5 @@ Transform raw power consumption data into actionable insights using advanced reg
 Python | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn
 
 Let's make energy consumption smarter, one prediction at a time! ✨
+
+Made with ❤️ by Deeksha
